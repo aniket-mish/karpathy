@@ -1,6 +1,12 @@
 # blocks
 
-These are my notes of Karpathy's series on micrograd and makemore. In this series he builds the building blocks of a neural network from scratch.
+I'm building a neural network from scratch
+
+
+#### References
+[1] [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+ 
+
 
 
 
